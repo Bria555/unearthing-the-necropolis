@@ -2,11 +2,8 @@
 title: About
 layout: about
 permalink: /about.html
-# include CollectionBuilder info at bottom
 credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
----
+
 # Show Notes
 This podcast episode explores the past and present of the Toronto Necropolis. We interviewed Cabbagetown historian, George Rust D’Eye and historian and Toronto Necropolis tour leader with Toronto Heritage, Jonsaba Jabbi for their expertise and opinions on the history of the Toronto Necropolis. 
 The Toronto Necropolis is located in Cabbagetown and remains a public fixture in the neighbourhood for people to walk though, bike, or sit and enjoy the picturesque nature and displays of highly decorated grave monuments. The Toronto Necropolis has always reflected this public openness by being open to anyone regardless of ethnicity, religion, gender, etc. to be buried there. We discuss the contrasting signage to this openness, as the signs in the Toronto Neropolis do not display the diversity of the site and instead tell a very narrow narrative about who and what is deemed noteworthy in this cemetery. 
