@@ -1,4 +1,8 @@
-
+---
+title: About
+layout: about
+permalink: /about.html
+credits: true
 
 # Show Notes
 This podcast episode explores the past and present of the Toronto Necropolis. We interviewed Cabbagetown historian, George Rust D’Eye and historian and Toronto Necropolis tour leader with Toronto Heritage, Jonsaba Jabbi for their expertise and opinions on the history of the Toronto Necropolis. 
