@@ -42,7 +42,7 @@ The Toronto Necropolis is located in Cabbagetown and remains a public fixture in
 > Toronto General Burying Grounds. Rules and Regulations. Toronto : Copp, Clark, 1914. https://www.canadiana.ca/view/oocihm.87097.
 
 > "Toronto Necropolis." The Globe, November 28, 1850. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/historical-newspapers/toronto necropolis/docview/1510601667/se-2.
+> "Toronto’s Cemeteries: The Improvement in Progress at Mount Pleasant. The Necropolis and St. James’ - Plot Selected for the Soldiers’ Burying Ground.”The Globe, April 25, 1883. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/historical-newspapers/torontos-cemeteries/docview/1532125969/se-2.#
+
 # Music Credit
 > Gentle Feelings by SergePavkinMusic
-
-> "Toronto’s Cemeteries: The Improvement in Progress at Mount Pleasant. The Necropolis and St. James’ - Plot Selected for the Soldiers’ Burying Ground.”The Globe, April 25, 1883. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/historical-newspapers/torontos-cemeteries/docview/1532125969/se-2. 
